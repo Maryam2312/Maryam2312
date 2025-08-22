@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist</h3>
 
 
-- 👋 Hi, I’m a senior CCSE "Computers and Control Systems Engineering" student at Mansoura University  
+- 👋 Hi, I’m a fresh graduate from CCSE "Computers and Control Systems Engineering", Mansoura University  
 - 🌱 I’m currently learning data science and especially interested in Machine Learning and Deep Learning  
 - 📫 Connect with me:
 
